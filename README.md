@@ -33,3 +33,4 @@ Buying books is sometimes hard because you can't find all the cool ones in one p
 - User Authentication and Authorization:
 - User-Friendly Language:
 
+# Project demo (Drive link): https://drive.google.com/file/d/1VfHjIFXy7UucwsnpQ24pjH1e5eDGdUOD/view?usp=drive_link
